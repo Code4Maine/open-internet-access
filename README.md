@@ -1,4 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/code4maine/municipal-wifi-in-a-box.png?label=ready&title=Ready)](https://waffle.io/code4maine/municipal-wifi-in-a-box)
+Can you help? Waffle.io will help you: [![Stories in Ready](https://badge.waffle.io/code4maine/municipal-wifi-in-a-box.png?label=ready&title=Ready)](https://waffle.io/code4maine/municipal-wifi-in-a-box)
 Municipal Wifi-in-a-Box
 =======================
 
