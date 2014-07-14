@@ -1,7 +1,11 @@
 References
 ==========
 
-[http://muninetworks.org/](MuniNetworks)
+[New Hampshire's Dark Fiber network](http://www.newhampshirefastroads.net/node/14)
+
+Wow. This might have to be our first stop for answering the question of "What can Maine do?"
+
+[MuniNetworks](http://muninetworks.org/)
 
 A fabulous resource for community broadband networks.
 
