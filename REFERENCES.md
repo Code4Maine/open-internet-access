@@ -1,6 +1,10 @@
 References
 ==========
 
+[http://muninetworks.org/](MuniNetworks)
+
+A fabulous resource for community broadband networks.
+
 [Maine fiber network for lease](http://www.fiercetelecom.com/press-releases/maines-1100-mile-three-ring-binder-high-speed-internet-network-complete)
 
 An intresting article on where a town might possibly lease a line from. The Maine School and Library Network, I believe, leases lines from Time Warner and others and then provides it at low or no cost to schools and libraries.
