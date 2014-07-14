@@ -19,4 +19,5 @@ A fabulous article with many great quotes and takeaways, including a few towns a
 
   * "Would the private sector support a similar law prohibiting Wal Mart, for example, from lowering its price to reflect its lower borrowing costs compared to independent small retailers? To ask the question is to answer it."
   * Salisbury, NC -- email sent to city manager on 7/14/14 asking about people who might talk on setting up Fibrant, the town's local fiber optic network.
+  * "Remember, incumbent telephone and cable companies go to great effort and expense to discredit these systems because they are intimidated by the threat of competition. If these networks really failed as they claim, they would not spend so much to fight them. Remember, no one fights incompetent competition."
 
