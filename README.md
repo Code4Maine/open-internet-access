@@ -1,7 +1,7 @@
-Can you help? Browse Waffle.io to find out: [![Stories in Ready](https://badge.waffle.io/code4maine/municipal-wifi-in-a-box.png?label=ready&title=Ready)](https://waffle.io/code4maine/municipal-wifi-in-a-box)
+Can you help? Browse Waffle.io to find out: [![Stories in Ready](https://badge.waffle.io/code4maine/municipal-wifi-in-a-box.png?label=ready&title=Ready)](https://waffle.io/code4maine/open-internet-access)
 
-Municipal Wifi-in-a-Box
-=======================
+Open Internet Access
+====================
 
 Abstract
 --------
