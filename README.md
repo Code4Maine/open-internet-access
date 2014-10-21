@@ -2,6 +2,7 @@ Can you help? Browse Waffle.io to find out: [![Stories in Ready](https://badge.w
 
 Open Internet Access
 ====================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Code4Maine/open-internet-access?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Abstract
 --------
