@@ -1,32 +1,4 @@
-OpenISP 
 
-Goal-
-
- To establish a model for public/community access Internet.
-
-# Community Wireless 
-
-Commotion Wireless/Serval Project
-
-  Grassroots community "mesh" based networking based on off-the-shelf equipment reflashed with OpenWRT.
-
-  Creates "Neighborhood Area network"
-
-  Still requires at least one mesh node to function as ISP Gateway
-
-# Non-Profit models of Standard Internet Service Providers-
-
-##   Asheville NC- 
-
-[http://main.nc.us/about/index.shtml](http://main.nc.us/about/index.shtml)
-
-In the tradition of the [rural cooperatives](http://www.reaenergy.com/content/history-cooperatives) that helped spread the reach of electricity in the 1930s, MAIN is one of
-
-the engines behind the modern expansion of Internet accessibility in western North Carolina.
-
-When MAIN was launched in 1996, only two counties in western North Carolina were being served by commercial[Internet Service Providers](http://en.wikipedia.org/wiki/Internet_service_provider) (ISPs). As a non-profit ISP working with many local partners, MAIN now provides reliable, low-cost Internet service both in western North Carolina and nationwide.
-
-MAIN owes its growth to strong support from the community, where thousands of people have eagerly embraced the opportunity to spend their Internet access dollars with a locally-controlled and accountable organization. Hundreds of our members have gone even further in their support of MAIN by donating their time and skills as [volunteers](http://main.nc.us/about/volunteer/) or by supporting us in our fundraising efforts.
 OpenISP 
 
 Goal-
