@@ -12,6 +12,7 @@ Commotion Wireless/Serval Project
   Grassroots community "mesh" based networking based on off-the-shelf equipment reflashed with OpenWRT.
 
   Creates "Neighborhood Area network"
+  [Example of wireless mesh network used for Emergency Training in Maine](http://villagetelco.org/2013/08/use-of-the-mesh-potato-at-a-wildfire-exercise-in-maine/)
 
   Still requires at least one mesh node to function as ISP Gateway
 
